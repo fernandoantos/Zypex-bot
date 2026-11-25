@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidade</title>
+</head>
+<body>
+  <h1>Política de Privacidade</h1>
+  <p><strong>Última atualização:</strong> Novembro de 2026</p>
+
+  <h2>1. Dados Coletados</h2>
+  <p>Para o funcionamento adequado dos recursos, o aplicativo pode armazenar temporariamente ou em banco de dados:</p>
+  <ul>
+    <li>IDs de usuários, servidores, canais e cargos do Discord;</li>
+    <li>Configurações personalizadas definidas pelos administradores do servidor;</li>
+    <li>Registros de comandos ou transações internas necessárias para os recursos do Bot.</li>
+  </ul>
+
+  <h2>2. Uso das Informações</h2>
+  <p>Os dados coletados são utilizados exclusivamente para executar os comandos e funcionalidades do Bot. Não vendemos, alugamos ou compartilhamos seus dados com terceiros.</p>
+
+  <h2>3. Armazenamento e Segurança</h2>
+  <p>Adotamos medidas técnicas para proteger as informações armazenadas contra acesso não autorizado.</p>
+
+  <h2>4. Exclusão de Dados</h2>
+  <p>Você pode solicitar a remoção dos seus dados armazenados entrando em contato com a equipe responsável pelo Bot no servidor de suporte oficial.</p>
+</body>
+</html>
